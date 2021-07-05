@@ -1,4 +1,4 @@
-Hello all
+Hello
 Assignment topic
 
 undergoing assignment on git and github
