@@ -2,7 +2,6 @@ Hello all
 Assignment topic
 undergoing assignment on git
 
-
 started
-continue
+continue with the assignment
 
